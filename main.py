@@ -20,7 +20,8 @@ BASE_DIRECTORY_PAIRS = [
 
 
 FAULTY_RULES = [
-    (['#FFFFFF'], 4)
+    (['#FFFFFF'], 4),
+    (['#000000'], 10)
 ]
 
 
